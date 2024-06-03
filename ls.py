@@ -42,7 +42,7 @@ def main():
     print(Fore.RED + "                                  ░ ░ ▒  ░ ░ ░  ░ ▒   ▒▒ ░░ ░▒ ▒░░ ░▒  ░ ░ ░ ░  ░ ░ ░  ░░ ░▒ ▒░" + Fore.RESET)
     print(Fore.RED + "                                    ░ ░      ░    ░   ▒   ░ ░░ ░ ░  ░  ░     ░      ░   ░ ░░ ░ " + Fore.RESET)
     print(Fore.RED + "                                      ░  ░   ░  ░     ░  ░░  ░         ░     ░  ░   ░  ░░  ░   " + Fore.RESET)
-    print("                                       \033[91m-----------------\033[96mProxy Scraper\033[91m-----------------\033[0m")
+    print("                                       \033[91m-----------------\033[96mModest Data Breach Repo\033[91m-----------------\033[0m")
 
     print(" ")
     option = input("   \033[0mType \033[95mSTART\033[0m) : ")
