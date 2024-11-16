@@ -1,9 +1,12 @@
 import os
-os.system("pip3 install termcolor")
-os.system("pip3 install colorama")
-os.system("pip3 install ascii_magic")
-os.system("pip3 install pillow")
-os.system("pip3 install tabulate")
+os.system("git fetch")
+os.system("git pull")
+os.system("sudo apt install pipenv")
+os.system("pipenv run pip3 install termcolor")
+os.system("pipenv run pip3 install colorama")
+os.system("pipenv run pip3 install ascii_magic")
+os.system("pipenv run pip3 install pillow")
+os.system("pipenv run pip3 install tabulate")
 import colorama
 from colorama import Fore
 import subprocess
